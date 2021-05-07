@@ -1,3 +1,6 @@
+This is the client-side of the project "Flipkart-Ecommerce Clone" which is developed using MERN Stack. To Check this please click here "https://flipkart-clone-client.herokuapp.com". it has less pages in compare of original but has all the functionality that flipkart provides. You can purchase the products on Cash-on-Delievery.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
